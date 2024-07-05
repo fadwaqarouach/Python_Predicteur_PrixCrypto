@@ -15,4 +15,5 @@ Cette application Python récupère les prix historiques des cryptomonnaies en u
 - tkinter: Pour créer l'interface graphique utilisateur.
 
  *Captures d'écran :*
+ ![BTC_combined_price_prediction](https://github.com/fadwaqarouach/Python_Predicteur_PrixCrypto/assets/160190692/0fb2632f-69c1-4b0d-beac-eac509a7b5cb)
  
