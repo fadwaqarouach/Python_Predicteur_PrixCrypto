@@ -13,3 +13,6 @@ Cette application Python récupère les prix historiques des cryptomonnaies en u
 - matplotlib et seaborn: Pour le tracé des graphiques et la visualisation des données.
 - sklearn: Pour implémenter la régression linéaire.
 - tkinter: Pour créer l'interface graphique utilisateur.
+
+ *Captures d'écran :*
+ 
